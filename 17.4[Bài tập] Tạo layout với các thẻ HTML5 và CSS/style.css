@@ -1,0 +1,51 @@
+
+#headerDiv {
+    width: auto;
+    height: 50px;
+    background-color: aqua;
+    margin: 5px 0;
+}
+
+#navDiv {
+    width: auto;
+    height: 50px;
+    background-color: blueviolet;
+    margin: 5px 0;
+}
+
+#sectionDiv {
+    width: 75%;
+    height: 200px;
+    background-color: burlywood;
+    margin: 5px 0;
+    float: left;
+}
+
+#articleDiv {
+    width: 75%;
+    height: 200px;
+    background-color: cornsilk;
+    margin: 5px 0;
+}
+
+#asideDiv {
+    width:25% ;
+    height: 410px;
+    background-color: brown;
+    right:0;
+    position: absolute;
+    margin: 5px 0;
+
+}
+
+#main div{
+    float:left;
+}
+
+.footerClass{
+    background-color: cadetblue;
+    clear:both;
+    height: 50px;
+    width: auto;
+    margin: 5px 0;
+}
